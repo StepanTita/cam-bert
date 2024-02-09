@@ -1,0 +1,7 @@
+2024-01-30 21:36:00,164 - space-fake.file - INFO - loss: 2.0751153571265086
+2024-01-30 21:36:00,164 - space-fake.file - INFO - acc: 0.7447769621682665
+2024-01-30 21:36:00,165 - space-fake.file - INFO - f1: 0.4435741732423581
+2024-01-30 21:36:00,165 - space-fake.file - INFO - precision: 0.4861357897690078
+2024-01-30 21:36:00,165 - space-fake.file - INFO - recall: 0.4984598469370087
+2024-01-30 21:36:00,166 - space-fake.file - INFO - cs_acc: 0.7442123094297007
+2024-01-30 21:36:00,167 - space-fake.file - INFO - cs_f1: 0.6521760054107486

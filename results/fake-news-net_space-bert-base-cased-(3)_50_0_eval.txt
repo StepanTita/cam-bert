@@ -1,0 +1,7 @@
+2024-01-30 05:31:11,443 - space-fake.file - INFO - Val loss: 1.923935874303182
+2024-01-30 05:31:11,444 - space-fake.file - INFO - Val acc: 0.7548491379310345
+2024-01-30 05:31:11,445 - space-fake.file - INFO - CS Val acc: 0.7152478448275862
+2024-01-30 05:31:11,446 - space-fake.file - INFO - Val f1: 0.4301504451949647
+2024-01-30 05:31:11,447 - space-fake.file - INFO - CS Val f1: 0.6437437207032358
+2024-01-30 05:31:11,447 - space-fake.file - INFO - Val precision: 0.37742456896551724
+2024-01-30 05:31:11,448 - space-fake.file - INFO - Val recall: 0.5
